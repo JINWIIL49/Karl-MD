@@ -71,10 +71,10 @@ else {
 }
 
     } else {
-        if(!superUser) { repondre("FIX MAMECHI ACHANA NA BOT🏍️☺️") ; return};
+        if(!superUser) { repondre("LOL AM ON🏍️☺️") ; return};
 
-      await   repondre("SA NILALE AJE NA.KUNA.AVIATOR✈️");
-         repondre("EBU TINGIZA KICHWA :)")
+      await   repondre("SLEEP IS FOR THE WEAKED✈️");
+         repondre("DO SOMETHING :)")
      }
  } else {
 
@@ -88,7 +88,7 @@ else {
     
 await addOrUpdateDataInAlive(texte , tlien)
 
-repondre(' Holla🥴, *CASEYRHODES MD BOT* is alive just like you gee. ')
+repondre(' Holla🥴, *VINKEL MD BOT* is alive just like you gee. ')
 
 }
     });
