@@ -32,7 +32,7 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-╭────《《CHARITY MD》》────
+╭────《《𝗞𝗔𝗥𝗟 𝗠𝗗》》────
 ┴  ╭─────────────
 │❒⁠⁠⁠⁠│ *ADMIN* : ${s.OWNER_NAME}
 │❒│⁠⁠⁠⁠ *CALENDER* : ${date}
@@ -41,13 +41,13 @@ const date = moment().format('DD/MM/YYYY');
 │❒│⁠⁠⁠⁠ *ORDERS* : ${cm.length} 
 │❒│⁠⁠⁠⁠ *SPACE* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
 │❒│⁠⁠⁠⁠ *CHROME* : ${os.platform()}
-│❒│⁠⁠⁠⁠ *THEME* : *CHARITY MD THEME*
+│❒│⁠⁠⁠⁠ *THEME* : *𝗞𝗔𝗥𝗟 𝗠𝗗 THEME*
 ┬  ╰──────────────
-╰─── ··《《CHARITY MD》》··──\n`;
+╰─── ··《《𝗞𝗔𝗥𝗟 𝗠𝗗》》··──\n`;
     
 let menuMsg = `
  ─────────
-  *TEAM CASEYRHODES BOTS* 
+  *TEAM VINKEL BOTS* 
  ─────────
 
 
@@ -66,7 +66,7 @@ let menuMsg = `
 
     menuMsg += `
 
-|⏣MADE EASY BY CASEYRHODES TECH MEDIA 🍀
+|⏣MADE EASY BY VINKEL TECH MEDIA 🍀
 *❒⁠⁠⁠⁠—————————— ❒⁠⁠⁠⁠——————————❒⁠⁠⁠⁠*
 `;
 
