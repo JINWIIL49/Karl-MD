@@ -1,4 +1,4 @@
-# CHARITY-MD-V2
+# 𝗞𝗔𝗥𝗟 𝗠𝗗
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=F710B1&center=true&width=910&height=100&lines=I'M+𝗞𝗔𝗥𝗟 𝗠𝗗❤️;Multi+Device+Whatsapp+Bot;" alt="Typing SVG" /></a>
   
@@ -117,7 +117,7 @@ Thanks to...
      
 * [` 𝐉𝚰𝚴𝐖𝚰𝚰𝐋 𝚯𝚴𝐆𝚰𝚴𝐉𝚯 🕷️🕸️`](https://github.com/finjohns) ***Author, Owner***
      
-* [`CASEYRHODES`](https://github.com/caseyweb) ***contributer,***
+* [`CASEYRHODES`](https://github.com/caseyweb) ***contributer, Author***
 * [`KEITHKEIZAH`](https://github.com/caseyrhodes01) ***For fixing music download***
 * [`PALVINKIBET`](https://github.com/WhiskeySockets/Baileys) ***Baileys Library***
 * [`WaSocket Discord`](https://discord.gg/WeJM5FP9GG) ***Maintaining the bot libs***
@@ -134,7 +134,7 @@ Thanks to...
   </a>
 
 <p align="center">
-  <a aria-label="Join our channel for updates" href="https://whatsapp.com/channel/0029VaxZbeSDTkJwBgUb9u3N" target="_blank">
+  <a aria-label="Join our channel for updates" href="https://chat.whatsapp.com/EqDVC9BGF9k86ZMHdjxY0d" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/WA GROUP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 
