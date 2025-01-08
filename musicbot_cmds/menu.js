@@ -65,6 +65,22 @@ let menuMsg = `
 
     menuMsg += `> 𝙼𝙰𝙳𝙴 𝙴𝙰𝚂𝚈 𝙱𝚈 𝚅𝙸𝙽𝙺𝙴𝙻🍀
 `;
+    try {
+            await client.sendMessage(m.chat, {
+                text: menuText,
+                contextInfo: {
+                    mentionedJid: [m.sender], // Mention the sender
+                    externalAdReply: {
+                        title: "🌟 𝗞𝗔𝗥𝗟 𝗠𝗗 ✨",
+                        body: "𝐫𝐞𝐠𝐚𝐫𝐝𝐬 𝗩𝗜𝗡𝗞𝗘𝗟",
+                        thumbnailUrl: "https://files.catbox.moe/db846i.jpg",
+                        sourceUrl: "https://whatsapp.com/channel/0029VaxZbeSDTkJwBgUb9u3N",
+                        mediaType: 1,
+                        renderLargerThumbnail: true
+                    }
+                }
+            });
+    }
 
    var lien = mybotpic();
 
