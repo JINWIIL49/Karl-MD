@@ -859,7 +859,7 @@ ${metadata.desc}`;
 ║    𝗣𝗥𝗘𝗙𝗜𝗫 : [ ${prefixe} ]
 ║    𝗠𝗢𝗗𝗘 :${md}
 ║    𝗣𝗟𝗨𝗚𝗜𝗡𝗦 : ${evt.cm.length}︎
-║    𝗖𝗛𝗔𝗡𝗡𝗘𝗟: https://whatsapp.com/channel/0029VaxZbeSDTkJwBgUb9u3N
+║    𝗖𝗛𝗔𝗡𝗡𝗘𝗟: `https://whatsapp.com/channel/0029VaxZbeSDTkJwBgUb9u3N`
 ╚════════════════╝`;
                 await zk.sendMessage(zk.user.id, { text: cmsg });
                 }
