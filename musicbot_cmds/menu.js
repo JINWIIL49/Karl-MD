@@ -50,7 +50,7 @@ const date = moment().format('DD/MM/YYYY');
     
 let menuMsg = `
 
- *𝙲𝙰𝚂𝙴𝚈𝚁𝙷𝙾𝙳𝙴𝚂 𝚃𝙴𝙲𝙷🍀*${readmore}
+ *𝚅𝙸𝙽𝙺𝙴𝙻 𝚃𝙴𝙲𝙷🍀*${readmore}
 `;
 
     for (const cat in coms) {
