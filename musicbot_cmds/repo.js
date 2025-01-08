@@ -41,16 +41,16 @@ const date = moment().format('DD/MM/YYYY');
 │❍⁠⁠⁠⁠│▸ *GROUP* 
 │❍│▸ *REPO*
 │❍⁠⁠⁠⁠╰──────────────
-│❍│▸ *CHANNEL* : https://whatsapp.com/channel/0029VakUEfb4o7qVdkwPk83E
-│❍│▸ *GROUP* : https://chat.whatsapp.com/Lcw1jJCMa6a82RDEW5XM1j
-│❍│▸ *REPO* : https://github.com/caseyweb/CHARITY-MD-V2
-│❍⁠⁠⁠⁠│▸ *YTUBE* : https://www.youtube.com/@Caseyrhodes01
+│❍│▸ *CHANNEL* : https://whatsapp.com/channel/0029VaxZbeSDTkJwBgUb9u3N
+│❍│▸ *GROUP* : https://chat.whatsapp.com/J5mZshoJ3fWI8yiPSo0M93
+│❍│▸ *REPO* : https://github.com/Finjohns/Karl-MD
+│❍⁠⁠⁠⁠│▸ *WSAP* : https://wa.me/254769365617
 │❍⁠⁠⁠⁠╰──────────────
 ╰──────────────────\n
   `;
     
 let menuMsg = `
-     MADE EASY BY CASEYRHODES 🍀
+     MADE EASY BY 𝚅𝙸𝙽𝙺𝙴𝙻 🍀
 
 ❍────────────────────❍`;
 
