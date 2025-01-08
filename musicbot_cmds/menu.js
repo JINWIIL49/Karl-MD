@@ -64,8 +64,7 @@ let menuMsg = `
     }
 
     menuMsg += `> 𝙼𝙰𝙳𝙴 𝙴𝙰𝚂𝚈 𝙱𝚈 𝚅𝙸𝙽𝙺𝙴𝙻🍀
-`;
-    try {
+try {
             await client.sendMessage(m.chat, {
                 text: menuText,
                 contextInfo: {
@@ -81,8 +80,9 @@ let menuMsg = `
                 }
             });
     }
-
-   var lien = mybotpic();
+`;
+    
+var lien = mybotpic();
 
    if (lien.match(/\.(mp4|gif)$/i)) {
     try {
