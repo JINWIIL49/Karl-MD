@@ -34,17 +34,17 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-> *CHARITY XMD AVAILABLE MENUS* 
+> *KARL XMD AVAILABLE MENUS* 
 ╭─────────────────
 │❍╭─────────────
 │❍│▸ *MENU* 
 │❍│▸ *MENU2* 
-│❍│▸ *HACHERS HOOD*
+│❍│▸ *VINKEL HOOD*
 │❍╰──────────────
 │❍│▸ *PLUGINS* : ${cm.length} 
 │❍│▸ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
 │❍│▸ *SAVER* : ${os.platform()}
-│❍│▸ *THEME* : *CHARITY XMD THEMES*
+│❍│▸ *THEME* : *VINKEL XMD THEMES*
 │❍╰──────────────
 ╰──────────────────\n`;
     
@@ -63,7 +63,7 @@ let menuMsg = `
 ╰────────────···▸▸ \n`
     }
 
-    menuMsg += `> 𝙼𝙰𝙳𝙴 𝙴𝙰𝚂𝚈 𝙱𝚈 𝙲𝙰𝚂𝙴𝚈𝚁𝙷𝙾𝙳𝙴𝚂🍀
+    menuMsg += `> 𝙼𝙰𝙳𝙴 𝙴𝙰𝚂𝚈 𝙱𝚈 𝚅𝙸𝙽𝙺𝙴𝙻🍀
 `;
 
    var lien = mybotpic();
