@@ -1,9 +1,9 @@
 {
-  "name":"𝗞𝗔𝗥𝗟 𝗠𝗗",
-  "description":"Best whatsapp bot developed by VINKEL JINWIIL",
+  "name":"CHARITY_MD",
+  "description":"Best whatsapp bot developed by CASEYRHODES",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://files.catbox.moe/db846i.jpg",
-  "repository":"https://github.com/finjohns/Karl-MD",
+  "logo":"https://files.catbox.moe/kwe3i5.jpg",
+  "repository":"https://github.com/caseyweb/CHARITY-MD-V2",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -35,14 +35,14 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":" 𝐉𝚰𝚴𝐖𝚰𝚰𝐋 𝚯𝚴𝐆𝚰𝚴𝐉𝚯🕷️🕸️",
+      "value":"𒀱ꪳ𓊈𒆜𓂀ᴸᴼᴿᴰℂ𝔸𝕊𝔼𝕐ℝℍ𝕆𝔻𝔼𝕊𓂀𒆜𓊉 𒀱",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://files.catbox.moe/db846i.jpg",
+      "value":"https://files.catbox.moe/tkgbqf.jpg",
       "required":false
        
      },
@@ -74,14 +74,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": " 𝐉𝚰𝚴𝐖𝚰𝚰𝐋 𝚯𝚴𝐆𝚰𝚴𝐉𝚯🕷️🕸️"
+    "value": "𒀱ꪳ𓊈𒆜𓂀ᴸᴼᴿᴰℂ𝔸𝕊𝔼𝕐ℝℍ𝕆𝔻𝔼𝕊𓂀𒆜𓊉 𒀱"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254769365617"
+    "value": "254112192119"
   },
     "WARN_COUNT":
   {
