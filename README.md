@@ -1,11 +1,11 @@
 # CHARITY-MD-V2
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=F710B1&center=true&width=910&height=100&lines=I'M+CHARITY MD❤️;Multi+Device+Whatsapp+Bot;" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=F710B1&center=true&width=910&height=100&lines=I'M+𝗞𝗔𝗥𝗟 𝗠𝗗❤️;Multi+Device+Whatsapp+Bot;" alt="Typing SVG" /></a>
   
 
 <div align="center">
 
-| [![CASEYRHODES TECH](https://github.com/caseyweb.png?lenght=50width=50)](https://github.com/caseyweb)|
+| [![𝗩𝗜𝗡𝗞𝗘𝗟 TECH](https://files.catbox.moe/n7gww7.jpg?lenght=50width=50)](https://github.com/finjohns)|
 |----|
 
 
@@ -22,7 +22,7 @@
 
 
 ## FEATURES
-This bot is a modification of the predecessor ***`charity-md`*** but we changed the module to commonJs. It has group management features, some media commands, image manipulation commands as well as AI and many other features incorporated.
+This bot is a modification of the predecessor ***`𝗞𝗔𝗥𝗟 𝗠𝗗`*** but we changed the module to commonJs. It has group management features, some media commands, image manipulation commands as well as AI and many other features incorporated.
 
 Our AI features use random APIs to run, so sometimes they may be down.
 
@@ -32,7 +32,7 @@ Our AI features use random APIs to run, so sometimes they may be down.
 ## `BUTTON MENU SETUP`
 
 
-## DEVELOPED BY 𝐂𝐀𝐒𝐄𝐘𝐑𝐇𝐎𝐃𝐄𝐒 🌟
+## DEVELOPED BY 𝗩𝗜𝗡𝗞𝗘𝗟 🌟
 
 ---
 
@@ -40,8 +40,8 @@ Our AI features use random APIs to run, so sometimes they may be down.
 
 ### Setup
 <div align="center">
-    <a href="https://github.com/caseyweb/CASEYRHODES_MD-V2/fork">
-        <img title="Charity-MD-v2" src="https://img.shields.io/badge/FORK%20Charity%20Md-3498DB?style=for-the-badge&logo=stackshare" />
+    <a href="https://github.com/finjohns/Karl-MD/fork">
+        <img title="𝗞𝗔𝗥𝗟 𝗠𝗗" src="https://img.shields.io/badge/FORK%20Charity%20Md-3498DB?style=for-the-badge&logo=stackshare" />
     </a>
 </div>
 
@@ -96,7 +96,7 @@ Our AI features use random APIs to run, so sometimes they may be down.
 </details>
 
 
- ### ✧✧ Follow this Tutorial for CASEYRHOES MD  free and safe Deployment
+ ### ✧✧ Follow this Tutorial for 𝚅𝙸𝙽𝙺𝙴𝙻  free and safe Deployment
 
   <a href="https://youtu.be/pcZHnf-_YUU?si=FXZuZlNKpqCfawhK"><img src="https://img.shields.io/badge/Tutorial-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtu.be/pcZHnf-_YUU?si=FXZuZlNKpqCfawhK" /><br>
      
@@ -108,15 +108,16 @@ Thanks to...
 
 
 <p align="center">  
-  <a href="https://www.youtube.com/@Caseyrhodes01">   
-    <img src="https://telegra.ph/file/a2404cf4912a775f17164.jpg"width="500" height="500"/>
+  <a href="#">   
+    <img src="https://files.catbox.moe/s2pxmk.jpg"width="500" height="500"/>
 </p>
 </br>
 </br>
 </br>
      
-* [`CASEYRHODES`](https://github.com/caseyweb) ***Author, Owner***
-
+* [` 𝐉𝚰𝚴𝐖𝚰𝚰𝐋 𝚯𝚴𝐆𝚰𝚴𝐉𝚯 🕷️🕸️`](https://github.com/finjohns) ***Author, Owner***
+     
+* [`CASEYRHODES`](https://github.com/caseyweb) ***contributer,***
 * [`KEITHKEIZAH`](https://github.com/caseyrhodes01) ***For fixing music download***
 * [`PALVINKIBET`](https://github.com/WhiskeySockets/Baileys) ***Baileys Library***
 * [`WaSocket Discord`](https://discord.gg/WeJM5FP9GG) ***Maintaining the bot libs***
@@ -128,19 +129,19 @@ Thanks to...
 ***Tap the WhatsApp logo below to join our channel and group for updates***
 
 <p align="center">
-  <a aria-label="Join our channel for updates" href="https://whatsapp.com/channel/0029VakUEfb4o7qVdkwPk83E" target="_blank">
+  <a aria-label="Join our channel for updates" href="https://whatsapp.com/channel/0029VaxZbeSDTkJwBgUb9u3N"target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/CHANNEL-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 
 <p align="center">
-  <a aria-label="Join our channel for updates" href="https://chat.whatsapp.com/D9hokK6OHS5C3eLEwPKjsJ" target="_blank">
+  <a aria-label="Join our channel for updates" href="https://whatsapp.com/channel/0029VaxZbeSDTkJwBgUb9u3N" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/WA GROUP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 
 
 **GET In Touch with The Owner**
 
-- <a href="https://wa.me/254112192119" target="_blank">
+- <a href="https://wa.me/254769365617" target="_blank">
     <img alt="CLICK HERE" src="https://img.shields.io/badge/ On WhatsApp  -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
