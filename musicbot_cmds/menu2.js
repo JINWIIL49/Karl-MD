@@ -32,16 +32,16 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-╭────《《𝗞𝗔𝗥𝗟 𝗠𝗗》》────
+|╭────《《𝗞𝗔𝗥𝗟 𝗠𝗗》》────
 ┴  ╭─────────────
-│❒⁠⁠⁠⁠│ *ADMIN* : ${s.OWNER_NAME}
-│❒│⁠⁠⁠⁠ *CALENDER* : ${date}
-│❒│⁠⁠⁠⁠ *PREFIX* : ${s.PREFIXE}
-│❒⁠⁠⁠⁠│⁠⁠⁠ *BOT IS IN* : ${mode} mode
-│❒│⁠⁠⁠⁠ *ORDERS* : ${cm.length} 
-│❒│⁠⁠⁠⁠ *SPACE* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-│❒│⁠⁠⁠⁠ *CHROME* : ${os.platform()}
-│❒│⁠⁠⁠⁠ *THEME* : *𝗞𝗔𝗥𝗟 𝗠𝗗 THEME*
+│👹│ *ADMIN* : ${s.OWNER_NAME}
+│👹│⁠⁠⁠⁠ *CALENDER* : ${date}
+│👹│⁠⁠⁠⁠ *PREFIX* : ${s.PREFIXE}
+│👹│⁠⁠⁠ *BOT IS IN* : ${mode} mode
+│👹│⁠⁠⁠⁠ *ORDERS* : ${cm.length} 
+│👹│⁠⁠⁠⁠ *SPACE* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
+│👹│⁠⁠⁠⁠ *CHROME* : ${os.platform()}
+│👹│⁠⁠⁠⁠ *THEME* : *𝗞𝗔𝗥𝗟 𝗠𝗗 THEME*
 ┬  ╰──────────────
 ╰─── ··《《𝗞𝗔𝗥𝗟 𝗠𝗗》》··──\n`;
     
@@ -58,7 +58,7 @@ let menuMsg = `
         menuMsg += ` ╭─⬡ *${cat}* ⬡─`;
         for (const cmd of coms[cat]) {
             menuMsg += `
-⬡│▸ *${cmd}*`;
+🍁│▸ *${cmd}*`;
         }
         menuMsg += `
   ╰────────────·· \n`
@@ -66,7 +66,7 @@ let menuMsg = `
 
     menuMsg += `
 
-|⏣MADE EASY BY VINKEL TECH MEDIA 🍀
+|⏣MADE EASY BY VINKEL TECH MEDIA 🌹
 *❒⁠⁠⁠⁠—————————— ❒⁠⁠⁠⁠——————————❒⁠⁠⁠⁠*
 `;
 
