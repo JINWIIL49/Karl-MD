@@ -151,9 +151,9 @@ Modifying the bot structure is at your own risk. We won't offer technical suppor
 
 ## License
 
-[Apache LICENCE](https://github.com/caseyweb/Charity-MD-v2/blob/main/LICENSE)
+[Apache LICENCE](https://github.com/finjohns/KARL-MD/blob/main/LICENSE)
 
-Copyright (c) 2024 CHARITY MD V2
+Copyright (c) 2024 KARL-MD
 
 
 
