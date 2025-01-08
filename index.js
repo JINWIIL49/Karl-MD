@@ -428,7 +428,7 @@ function mybotpic() {
                                    // txt += `message supprimé \n @${auteurMessage.split("@")[0]} rétiré du groupe.`;
                                     const gifLink = "https://raw.githubusercontent.com/djalega8000/Zokou-MD/main/media/remover.gif";
                                     var sticker = new Sticker(gifLink, {
-                                        pack: 'Zoou-Md',
+                                        pack: 'Karl-Md',
                                         author: conf.OWNER_NAME,
                                         type: StickerTypes.FULL,
                                         categories: ['🤩', '🎉'],
@@ -855,11 +855,11 @@ ${metadata.desc}`;
                 if((conf.DP).toLowerCase() === 'yes') {     
                 let cmsg = `
 ╔════◇
-║        『𝗖𝗔𝗦𝗘𝗬𝗥𝗛𝗢𝗗𝗘𝗦 𝗠𝗗』
+║        『KARL 𝗠𝗗』
 ║    𝗣𝗥𝗘𝗙𝗜𝗫 : [ ${prefixe} ]
 ║    𝗠𝗢𝗗𝗘 :${md}
 ║    𝗣𝗟𝗨𝗚𝗜𝗡𝗦 : ${evt.cm.length}︎
-║    𝗖𝗛𝗔𝗡𝗡𝗘𝗟: https://whatsapp.com/channel/0029VakUEfb4o7qVdkwPk83E
+║    𝗖𝗛𝗔𝗡𝗡𝗘𝗟: https://whatsapp.com/channel/0029VaxZbeSDTkJwBgUb9u3N
 ╚════════════════╝`;
                 await zk.sendMessage(zk.user.id, { text: cmsg });
                 }
