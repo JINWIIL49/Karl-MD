@@ -109,7 +109,7 @@ Thanks to...
 
 <p align="center">  
   <a href="#">   
-    <img src="https://files.catbox.moe/s2pxmk.jpg"width="500" height="500"/>
+    <img src="https://files.catbox.moe/t0p71p.jpg"width="500" height="400"/>
 </p>
 </br>
 </br>
