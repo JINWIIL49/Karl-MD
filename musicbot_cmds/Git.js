@@ -36,22 +36,23 @@ const date = moment().format('DD/MM/YYYY');
    *𝗧𝗛𝗜𝗦 𝗣𝗥𝗢𝗝𝗘𝗖𝗧 𝗜𝗦 𝗣𝗥𝗜𝗩𝗔𝗧𝗘* 
 ╭════════════════⊷❍
 │❍╭─────────────
-│❍│▸ *𝙲𝙷𝙰𝙽𝙽𝙴𝙻* https://whatsapp.com/channel/0029VaxZbeSDTkJwBgUb9u3N
+│❍│▸ *𝙲𝙷𝙰𝙽𝙽𝙴𝙻* https://whatsapp.com/channel/0029VakUEfb4o7qVdkwPk83E
 │❍│▸⁣⣿⣿⡿⠋⠄⡀⣿⣿⣿⣿⣿⣿⣿⠿⠛⠋⣉⣉⣉⡉⠙⠻
 │❍│▸╔╦╦╦══╦══╗
 ║❍╔╣╠╝╔╬╝╔╣ 𝐆𝐞𝐭 𝐫𝐞𝐩𝐨 𝐢𝐧 𝐭𝐡𝐞 𝐜𝐡𝐚𝐧𝐧𝐞𝐥.
 ╚❍╝╚╩══╩══╝
 │❍╰═════════════
-│❍│▸ *Group* : https://chat.whatsapp.com/EqDVC9BGF9k86ZMHdjxY0d
-│❍│▸╔◾◾◾
+│❍│▸ *𝙲𝙷𝙰𝙽𝙽𝙴𝙻* : https://whatsapp.com/channel/0029VakUEfb4o7qVdkwPk83E
+│❍│▸╔╦╦╦══╦══╗
 ║❍╔╣╠╝╔╬╝╔╣
-╚❍╝╚◾◾◾
-│❍│▸ *WSAP NO :https://wa.me/message/U5RP3VNFITVQD1
+╚❍╝╚╩══╩══╝
+│❍│▸ *𝚈𝙾𝚄𝚃𝚄𝙱𝙴 :https://youtube.com/@Caseyrhodes01
 │❍╰═════════════
 ╰════════════════⊷❍\n─
- cchan  
+  `;
+    
 let menuMsg = `
-      KARL-MD MADE BY JINWIIL🌟
+      𝚉𝙷𝙴𝚉𝙷𝙾_𝙼𝙳 𝙼𝙰𝙳𝙴 𝙱𝚈 𝙲𝙰𝚂𝙴𝚈𝚁𝙷𝙾𝙳𝙴𝚂🌟
 
 ❍⊷════════════════⊷❍`;
     
