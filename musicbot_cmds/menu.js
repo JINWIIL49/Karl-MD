@@ -13,13 +13,13 @@ zokou({ nomCom: "menu", categorie: "General" }, async (dest, zk, commandeOptions
     let { cm } = require(__dirname + "/../framework//zokou");
     var coms = {};
     var mode = "public";
-    
+
     if ((s.MODE).toLocaleLowerCase() != "yes") {
         mode = "private";
     }
 
 
-    
+
 
     cm.map(async (com, index) => {
         if (!coms[com.categorie])
@@ -34,61 +34,35 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-  > *KARL XMD AVAILABLE MENUS* 
-
-╭|───|──|───|───|───|───
-
-|│🪰╭─────────────
-
-|│🪰│▸ *MENU* 
-
-|│🪰│▸ *MENU2* 
-
-|│🪰│▸ *VINKEL HOOD*
-
-|│🪰╰──────────────
-
-|│🪰│▸ *PLUGINS* : ${cm.length} 
-
-|│🪰│▸ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-
-|│🪰│▸ *SAVER* : ${os.platform()}
-
-|│🪰│▸ *THEME* : *VINKEL XMD THEMES*
-
-|│🪰╰──────────────
-
-|_╰_───_────_─────_───_───\n`;
-
-    
+> *KARL-MD AVAILABLE MENUS* 
+╭─────────────────
+│❍╭─────────────
+│❍│▸ *MENU* 
+│❍│▸ *MENU2* 
+│❍│▸ *VINKEL HOOD*
+│❍╰──────────────
+│❍│▸ *PLUGINS* : ${cm.length} 
+│❍│▸ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
+│❍│▸ *SAVER* : ${os.platform()}
+│❍│▸ *THEME* : *KARL-MD THEMES*
+│❍╰──────────────
+╰──────────────────\n`;
 
 let menuMsg = `
 
-
-
- *𝚅𝙸𝙽𝙺𝙴𝙻 𝚃𝙴𝙲𝙷🍀*${readmore}
-
+ *𝙹𝙸𝙽𝚆𝙸𝙻 𝚃𝙴𝙲𝙷🍀*${readmore}
 `;
 
-
-
     for (const cat in coms) {
-
-        menuMsg += ` |╭─=|───|───|─❒⁠⁠⁠⁠ *${cat}* ✣`;
-
+        menuMsg += ` ╭────────❒⁠⁠⁠⁠ *${cat}* ✣`;
         for (const cmd of coms[cat]) {
-
             menuMsg += `
-
-│🐉│▸ ${cmd}`;
-
+│👻│▸ ${cmd}`;
         }
-
         menuMsg += `
-
-|╰─_=──_─=───_=──_─=──_···▸▸ \n`
-
+╰────────────···▸▸ \n`
     }
+
     menuMsg += `> 𝙼𝙰𝙳𝙴 𝙴𝙰𝚂𝚈 𝙱𝚈 𝙹𝙸𝙽𝚆𝙸𝙻🍀
 `;
 
@@ -114,9 +88,9 @@ else if (lien.match(/\.(jpeg|png|jpg)$/i)) {
     }
 } 
 else {
-    
+
     repondre(infoMsg + menuMsg);
-    
+
 }
 
 });
