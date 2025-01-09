@@ -34,35 +34,61 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-> *KARL-MD AVAILABLE MENUS* 
-╭─────────────────
-│❍╭─────────────
-│❍│▸ *MENU* 
-│❍│▸ *MENU2* 
-│❍│▸ *HACHERS HOOD*
-│❍╰──────────────
-│❍│▸ *PLUGINS* : ${cm.length} 
-│❍│▸ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-│❍│▸ *SAVER* : ${os.platform()}
-│❍│▸ *THEME* : *KARL-MD THEMES*
-│❍╰──────────────
-╰──────────────────\n`;
+  > *KARL XMD AVAILABLE MENUS* 
+
+╭|───|──|───|───|───|───
+
+|│🪰╭─────────────
+
+|│🪰│▸ *MENU* 
+
+|│🪰│▸ *MENU2* 
+
+|│🪰│▸ *VINKEL HOOD*
+
+|│🪰╰──────────────
+
+|│🪰│▸ *PLUGINS* : ${cm.length} 
+
+|│🪰│▸ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
+
+|│🪰│▸ *SAVER* : ${os.platform()}
+
+|│🪰│▸ *THEME* : *VINKEL XMD THEMES*
+
+|│🪰╰──────────────
+
+|_╰_───_────_─────_───_───\n`;
+
     
+
 let menuMsg = `
 
- *𝙹𝙸𝙽𝚆𝙸𝙻 𝚃𝙴𝙲𝙷🍀*${readmore}
+
+
+ *𝚅𝙸𝙽𝙺𝙴𝙻 𝚃𝙴𝙲𝙷🍀*${readmore}
+
 `;
 
-    for (const cat in coms) {
-        menuMsg += ` ╭────────❒⁠⁠⁠⁠ *${cat}* ✣`;
-        for (const cmd of coms[cat]) {
-            menuMsg += `
-│❍│▸ ${cmd}`;
-        }
-        menuMsg += `
-╰────────────···▸▸ \n`
-    }
 
+
+    for (const cat in coms) {
+
+        menuMsg += ` |╭─=|───|───|─❒⁠⁠⁠⁠ *${cat}* ✣`;
+
+        for (const cmd of coms[cat]) {
+
+            menuMsg += `
+
+│🐉│▸ ${cmd}`;
+
+        }
+
+        menuMsg += `
+
+|╰─_=──_─=───_=──_─=──_···▸▸ \n`
+
+    }
     menuMsg += `> 𝙼𝙰𝙳𝙴 𝙴𝙰𝚂𝚈 𝙱𝚈 𝙹𝙸𝙽𝚆𝙸𝙻🍀
 `;
 
