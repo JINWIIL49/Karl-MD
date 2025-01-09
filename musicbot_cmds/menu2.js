@@ -68,6 +68,7 @@ let menuMsg = `
 
 |⏣MADE EASY BY JINWIIL TECH MEDIA 🍀
 *❒══•☆•══☆══❒══❖══❒⁠⁠⁠⁠*
+> https://whatsapp.com/channel/0029VaxZbeSDTkJwBgUb9u3N
 `;
 
    var lien = mybotpic();
