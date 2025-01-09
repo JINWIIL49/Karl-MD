@@ -41,7 +41,7 @@ Our AI features use random APIs to run, so sometimes they may be down.
 ### Setup
 <div align="center">
     <a href="https://github.com/finjohns/Karl-MD/fork">
-        <img title="𝗞𝗔𝗥𝗟 𝗠𝗗" src="https://img.shields.io/badge/FORK%20Charity%20Md-3498DB?style=for-the-badge&logo=stackshare" />
+        <img title="𝗞𝗔𝗥𝗟 𝗠𝗗" src="https://img.shields.io/badge/FORK%20Karl%20Md-3498DB?style=for-the-badge&logo=stackshare" />
     </a>
 </div>
 
@@ -109,7 +109,7 @@ Thanks to...
 
 <p align="center">  
   <a href="#">   
-    <img src="https://files.catbox.moe/5e0rff.jpg"width="500" height="400"/>
+    <img src="https://files.catbox.moe/mobq5e.jpg"width="500" height="400"/>
 </p>
 </br>
 </br>
