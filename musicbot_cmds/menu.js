@@ -35,18 +35,18 @@ const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
 > *KARL-MD AVAILABLE MENUS* 
-╭────🕸️───🕸️───🕸️───🕸️────🕸️
-│🪰╭──🦠───🦠───🦠───🦠──🌀
-│🪰│▸ *MENU* 
-│🪰│▸ *MENU2* 
-│🪰│▸ *VINKEL HOOD*
-│🪰╰───🦠───🦠────🦠───🦠─🌀
-│🪰│▸ *PLUGINS* : ${cm.length} 
-│🪰│▸ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-│🪰│▸ *SAVER* : ${os.platform()}
-│🪰│▸ *THEME* : *KARL-MD THEMES*
-│🪰╰──🕷️──🕷️───🕷️──🕷️───🕷️──🕸️
-╰──🕸️────🕸️─────🕸️────🕸️───\n`;
+◆╭─══•☆•════•☆•════•☆•══🕸️
+◆│🪰╭─────────────🌀
+◆│🪰│▸ *MENU* 
+◆│🪰│▸ *MENU2* 
+◆│🪰│▸ *VINKEL HOOD*
+◆│🪰╰─━━━◆◆━━━◆◆━━━🌀
+◆│🪰│▸ *PLUGINS* : ${cm.length} 
+◆│🪰│▸ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
+◆│🪰│▸ *SAVER* : ${os.platform()}
+◆│🪰│▸ *THEME* : *KARL-MD THEMES*
+◆│🪰╰──────────────
+╰══••════••════••════••══\n`;
 
 let menuMsg = `
 
@@ -54,13 +54,13 @@ let menuMsg = `
 `;
 
     for (const cat in coms) {
-        menuMsg += ` ╭────────❒⁠⁠⁠⁠ *${cat}* ✣`;
+        menuMsg += ` ╭══❖════❖══❒⁠⁠⁠⁠ *${cat}* ✣`;
         for (const cmd of coms[cat]) {
             menuMsg += `
-│🐉│▸ ${cmd}`;
+☆│🐉│▸ ${cmd}`;
         }
         menuMsg += `
-╰────────────···▸▸ \n`
+╰══❖════❖════❖══···▸▸ \n`
     }
 
     menuMsg += `> 𝙼𝙰𝙳𝙴 𝙴𝙰𝚂𝚈 𝙱𝚈 𝙹𝙸𝙽𝚆𝙸𝙻🍀
