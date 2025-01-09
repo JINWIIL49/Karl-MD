@@ -36,23 +36,23 @@ const date = moment().format('DD/MM/YYYY');
   let infoMsg =  `
 *AVAILABLE REPO AND GROUPS* 
 ╭─────────────────
-│❍╭─────────────
-│❍│▸ *CHANNEL* 
-│❍⁠⁠⁠⁠│▸ *GROUP* 
-│❍│▸ *REPO*
-│❍⁠⁠⁠⁠╰──────────────
-│❍│▸ *CHANNEL* : https://whatsapp.com/channel/0029VakUEfb4o7qVdkwPk83E
-│❍│▸ *GROUP* : https://chat.whatsapp.com/Lcw1jJCMa6a82RDEW5XM1j
-│❍│▸ *REPO* : https://github.com/caseyweb/CHARITY-MD-V2
-│❍⁠⁠⁠⁠│▸ *YTUBE* : https://www.youtube.com/@Caseyrhodes01
-│❍⁠⁠⁠⁠╰──────────────
+│◾╭─────────────
+│◾│▸ *CHANNEL* 
+│◾⁠⁠⁠⁠│▸ *GROUP* 
+│◾│▸ *REPO*
+│◾⁠⁠⁠⁠╰──────────────
+│◾│▸ *CHANNEL* : https://whatsapp.com/channel/0029VaxZbeSDTkJwBgUb9u3N
+│◾│▸ *GROUP* : https://chat.whatsapp.com/EqDVC9BGF9k86ZMHdjxY0d
+│◾│▸ *REPO* : https://github.com/Finjohns/Karl-MD
+│◾⁠⁠⁠⁠│▸ *WSAP* : https://wa.me/message/U5RP3VNFITVQD1
+│◾⁠⁠⁠⁠╰──────────────
 ╰──────────────────\n
   `;
     
 let menuMsg = `
-     MADE EASY BY CASEYRHODES 🍀
+     MADE EASY BY JINWIIL 🍁
 
-❍────────────────────❍`;
+🖤────────────────────🖤`;
 
    var lien = mybotpic();
 
