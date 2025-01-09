@@ -43,7 +43,7 @@ const date = moment().format('DD/MM/YYYY');
  ${message}
  
  
- *CASEYRHODES-MD-WABOT*`
+ *KARL-MD-WABOT*`
 
  if (lien.match(/\.(mp4|gif)$/i)) {
     try {
@@ -71,10 +71,10 @@ else {
 }
 
     } else {
-        if(!superUser) { repondre("FIX MAMECHI ACHANA NA BOT🏍️☺️") ; return};
+        if(!superUser) { repondre("LOL AM ON LIKE SHIET👻🕸️😈") ; return};
 
-      await   repondre("SA NILALE AJE NA.KUNA.AVIATOR✈️");
-         repondre("EBU TINGIZA KICHWA :)")
+      await   repondre("SLEEP IS FOR THE WEAKED✈️");
+         repondre("DO SOMETHING 🕛 :)")
      }
  } else {
 
