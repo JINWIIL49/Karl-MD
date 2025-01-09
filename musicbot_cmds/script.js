@@ -35,23 +35,23 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-     *CASEYRHODES MD IMPORTANT INFO* 
+     *KARL MD IMPORTANT INFO* 
 ❒───────────────────❒
 *GITHUB LINK*
-> https://github.com/caseyweb/Charity-MD-bot
+> https://github.com/Finjohns/Karl-MD
 
 *WHATSAPP CHANNEL*
-> https://whatsapp.com/channel/0029VakUEfb4o7qVdkwPk83E
+> https://whatsapp.com/channel/0029VaxZbeSDTkJwBgUb9u3N
 ⁠
 ╭───────────────────❒
 │❒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-│❒⁠⁠⁠⁠ *DEV1* : *CASEYRHODES MD*
-│❒⁠⁠⁠⁠ *DEV2* : *CASEYRHODES*
+│❒⁠⁠⁠⁠ *DEV1* : *KARL MD*
+│❒⁠⁠⁠⁠ *DEV2* : *JINWIIL*
 ⁠⁠⁠⁠╰───────────────────❒
   `;
     
 let menuMsg = `
-     *CASEYRHODES TECH*
+     *VINKEL TECH*
 
 ❒────────────────────❒`;
 
