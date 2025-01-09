@@ -32,7 +32,7 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-╭────《《CHARITY MD》》────
+╭────《《KARL MD》》────
 ┴  ╭─────────────
 │❒⁠⁠⁠⁠│ *ADMIN* : ${s.OWNER_NAME}
 │❒│⁠⁠⁠⁠ *CALENDER* : ${date}
@@ -41,33 +41,33 @@ const date = moment().format('DD/MM/YYYY');
 │❒│⁠⁠⁠⁠ *ORDERS* : ${cm.length} 
 │❒│⁠⁠⁠⁠ *SPACE* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
 │❒│⁠⁠⁠⁠ *CHROME* : ${os.platform()}
-│❒│⁠⁠⁠⁠ *THEME* : *CHARITY MD THEME*
+│❒│⁠⁠⁠⁠ *THEME* : *KARL MD THEME*
 ┬  ╰──────────────
-╰─── ··《《CHARITY MD》》··──\n`;
+╰─── ··《《KARL MD》》··──\n`;
     
 let menuMsg = `
  ─────────
-  *TEAM CASEYRHODES BOTS* 
- ─────────
+  *TEAM VINKEL BOTS* 
+ 📎☆◆◆☆📎☆◆◆☆📎
 
 
  *ℂ𝕆𝕄𝕄𝔸ℕ𝔻𝕊*
 `;
 
     for (const cat in coms) {
-        menuMsg += ` ╭─⬡ *${cat}* ⬡─`;
+        menuMsg += ` ╭══❖══⬡ *${cat}* ⬡══❖`;
         for (const cmd of coms[cat]) {
             menuMsg += `
 ⬡│▸ *${cmd}*`;
         }
         menuMsg += `
-  ╰────────────·· \n`
+  ╰══•☆•══◆◆══•☆•══·· \n`
     }
 
     menuMsg += `
 
-|⏣MADE EASY BY CASEYRHODES TECH MEDIA 🍀
-*❒⁠⁠⁠⁠—————————— ❒⁠⁠⁠⁠——————————❒⁠⁠⁠⁠*
+|⏣MADE EASY BY JINWIIL TECH MEDIA 🍀
+*❒══•☆•══☆══❒══❖══❒⁠⁠⁠⁠*
 `;
 
    var lien = mybotpic();
