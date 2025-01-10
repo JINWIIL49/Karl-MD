@@ -337,11 +337,7 @@ if (conf.AUTO_LIKE_STATUS === "yes") {
                 }
 
                 // Check if bot user ID is available
-                const keith = zk.user && zk.user.id ? zk.user.id.split(":")[0] + "@s.whatsapp.net" : null;
-                if (!keith) {
-                    console.log("Bot's user ID not available. Skipping reaction.");
-                    continue;
-                }
+                
 
                 // Select a random love emoji
                 const randomLoveEmoji = loveEmojis[Math.floor(Math.random() * loveEmojis.length)];
